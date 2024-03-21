@@ -18,9 +18,23 @@ I am a full stack devlopper
 - IA generative learning
 
 ### 💼 Technologies and Tools:
-<code><img height="20" src="url-to-icon" alt="Technology 1"></code>
-<code><img height="20" src="url-to-icon" alt="Technology 2"></code>
-<code><img height="20" src="url-to-icon" alt="Technology 3"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/C.png?raw=true" alt="C"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/CPP.png?raw=true" alt="CPP"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/nodejs.png?raw=true" alt="nodejs"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/SQL.png?raw=true" alt="SQL"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/mongodb.png?raw=true" alt="mongodb"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/mongocompass.png?raw=true" alt="mongodb compass"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/django.png?raw=true" alt="django"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/reactjs.png?raw=true" alt="reactJS"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/html.png?raw=true" alt="html"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/css.png?raw=true" alt="CSS"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/javascript.png?raw=true" alt="javascript"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/Docker.png?raw=true" alt="Docker"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/SSH.png?raw=true" alt="SHH"></code>
+<code><img height="40" src="https://github.com/aimeric44uwu/aimeric44uwu/blob/main/img/visualstudio.png?raw=true" alt="Visual Studio Code"></code>
+
+
+<!--
 
 ### ✨ Featured Projects:
 <table>
@@ -38,16 +52,17 @@ I am a full stack devlopper
       Brief description of Project 2...
     </td>
   </tr>
-  ... Add more projects as needed
 </table>
+-->
 
 ### 📫 How to reach me:
-- Email: your.email@example.com
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: aimeric.rouyer@epitech.eu
+- Discord : ciremia1893
+- Instagram : @lespremicesdederek
+- LinkedIn: https://www.linkedin.com/in/aimeric-rouyer-12a1881a2/
 
 ---
 
 <p align="center">
-  <i>Let's connect and chat! Open to collaboration on projects related to [Your Areas of Interest].</i>
+  <i>Let's connect and chat! Open to collaboration on projects related to NodeJS or Website in general.</i>
 </p>
