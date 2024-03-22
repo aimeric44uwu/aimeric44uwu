@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm 1imeric 👋</h1>
+<h1 align="center">Hi there, I'm Aimeric 👋</h1>
 
 <p align="center">
   <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/aimeric-rouyer-12a1881a2/)">LinkedIn</a> •
